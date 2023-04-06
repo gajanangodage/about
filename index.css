@@ -1,0 +1,47 @@
+#Header  li {
+    display: inline;
+    margin-left: 15rem;
+    margin-top: 5rem;
+    background-color: yellow;
+    font-size: x-large;
+}
+#Header li :hover{
+    background-color: white;
+}
+#Header{
+    background-color:aqua;
+}
+#img{
+    margin-left:33rem;
+}
+#History{
+    text-align: center;
+    margin-top: 20px;
+    font-weight: bold;
+    font-family: 'Times New Roman', Times, serif;
+}
+#since{
+    text-align: center;
+    margin-left: 1px;
+    margin-right: 1px;
+    font-size: large;
+    font-style: italic;
+    margin-top: 0%;
+}
+.hs{
+    margin-bottom: 0%;
+    font-size: x-large;
+    margin-left: 12px;
+}
+#skills{
+    font-size: larger;
+    font-style: italic;
+}
+.foot li{
+    display: inline;
+}
+.foot{
+    text-align: center;
+    background-color: black;
+    color: white;
+}
